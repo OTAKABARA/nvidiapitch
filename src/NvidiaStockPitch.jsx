@@ -57,9 +57,8 @@ export default function NvidiaStockPitch() {
 
         <h3 style={{ marginTop: '15px', marginBottom: '10px', color: '#1a73e8' }}>📈 แหล่งข้อมูลหุ้น:</h3>
         <ul>
-          <li><strong>Yahoo Finance</strong> (finance.yahoo.com) - ข้อมูลราคาและกราฟ</li>
           <li><strong>TradingView</strong> (tradingview.com) - เครื่องมือ Technical Analysis</li>
-          <li><strong>SEC Edgar</strong> (sec.gov/edgar) - รายงานทางการเงินบริษัท</li>
+          <li><strong>FOREX FACTORY</strong> (forexfactory.com) - รวมเครื่องมือสำคัญๆ เช่น ปฏิทินเศรษฐกิจ ข่าวสาร ฟอรัม และข้อมูลตลาด </li>
           <li><strong>NASDAQ</strong> (nasdaq.com) - ข้อมูลหุ้นและข่าวสาร</li>
         </ul>
 
@@ -85,9 +84,8 @@ export default function NvidiaStockPitch() {
         
         <h3 style={{ marginTop: '15px', marginBottom: '10px', color: '#ff9800' }}>🆓 เครื่องมือฟรี:</h3>
         <ul>
-          <li><strong>Yahoo Finance:</strong> สร้างบัญชีฟรี เพื่อติดตามพอร์ตโฟลิโอ</li>
           <li><strong>TradingView (Basic):</strong> ใช้งานฟรีได้ แต่จำกัดจำนวนกราฟ</li>
-          <li><strong>SEC Edgar:</strong> เข้าถึงได้ฟรีโดยไม่ต้องสมัครสมาชิก</li>
+          <li><strong>FOREX FACTORY:</strong> ข้อมูลตลาดแลกเปลี่ยนเงินตราต่างประเทศ</li>
           <li><strong>FRED:</strong> ข้อมูลเศรษฐกิจฟรีจาก Federal Reserve</li>
         </ul>
 
