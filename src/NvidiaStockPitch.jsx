@@ -44,16 +44,7 @@ export default function NvidiaStockPitch() {
         </ul>
       </div>
 
-      {/* Slide 5 */}
-      <div style={{ border: '1px solid #ccc', padding: '20px', marginBottom: '20px', backgroundColor: '#e6f4ea' }}>
-        <h2>✅ สรุป</h2>
-        <p>
-          หุ้น NVIDIA (NVDA) เป็นผู้นำในตลาด AI มีพื้นฐานที่แข็งแกร่งและแนวโน้มเติบโตสูงในระยะยาว
-          จึงเหมาะกับนักลงทุนที่มองหาโอกาสระยะกลาง-ยาว และรับความเสี่ยงได้ในระดับหนึ่ง
-        </p>
-      </div>
-
-      {/* Slide 6: เครื่องมือและแหล่งข้อมูล */}
+      {/* Slide 5: เครื่องมือและแหล่งข้อมูล */}
       <div style={{ border: '1px solid #ccc', padding: '20px', marginBottom: '20px' }}>
         <h2>4. เครื่องมือและแหล่งข้อมูลที่ใช้ในการวิเคราะห์</h2>
         
@@ -88,7 +79,7 @@ export default function NvidiaStockPitch() {
         </ul>
       </div>
 
-      {/* Slide 7: วิธีการเข้าถึงเครื่องมือ */}
+      {/* Slide 6: วิธีการเข้าถึงเครื่องมือ */}
       <div style={{ border: '1px solid #ccc', padding: '20px', marginBottom: '20px', backgroundColor: '#fff3e0' }}>
         <h2>5. วิธีการเข้าถึงและใช้งานเครื่องมือ</h2>
         
@@ -110,6 +101,15 @@ export default function NvidiaStockPitch() {
         <p style={{ marginTop: '15px', fontStyle: 'italic', color: '#666' }}>
           <strong>หมายเหตุ:</strong> ข้อมูลในงานนำเสนอนี้รวบรวมจากแหล่งข้อมูลสาธารณะ 
           และเป็นการวิเคราะห์เพื่อการศึกษาเท่านั้น ไม่ใช่คำแนะนำการลงทุน
+        </p>
+      </div>
+
+      {/* Slide 7 */}
+      <div style={{ border: '1px solid #ccc', padding: '20px', marginBottom: '20px', backgroundColor: '#e6f4ea' }}>
+        <h2>✅ สรุป</h2>
+        <p>
+          หุ้น NVIDIA (NVDA) เป็นผู้นำในตลาด AI มีพื้นฐานที่แข็งแกร่งและแนวโน้มเติบโตสูงในระยะยาว
+          จึงเหมาะกับนักลงทุนที่มองหาโอกาสระยะกลาง-ยาว และรับความเสี่ยงได้ในระดับหนึ่ง
         </p>
       </div>
     </div>
